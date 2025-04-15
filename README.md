@@ -24,7 +24,7 @@ Professional developer of Urdu Blogger templates and WordPress themes. Helping U
 
 ## 📸 Template Preview
 
-![Preview](images/preview.jpg)
+https://urdunewsmax.blogspot.com/
 
 ---
 
@@ -51,9 +51,9 @@ Professional developer of Urdu Blogger templates and WordPress themes. Helping U
 - 🌍 [Official Website](https://www.urduhost.com)  
 - 📄 [Template Blog Post](https://urduhost1.blogspot.com/2021/10/urdu-news-max-responsive-urdu-news.html)  
 - 📧 Email: info@urduhost.com  
-- 📱 WhatsApp: +92XXXXXXXXXX  
-- 📘 [Facebook](https://facebook.com/urduhost)  
-- 📺 [YouTube](https://youtube.com/@urduhost)
+- 📱 WhatsApp: +923007832941 
+- 📘 [Facebook](https://www.facebook.com/urduhostdotcom)  
+- 📺 [YouTube](https://youtube.com/@pakurdutube)
 
 ---
 
